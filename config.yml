@@ -10,7 +10,7 @@ description: # a longer description for your Learning Lab course, displayed on t
 
 template:
   name:     # the name of the repository when it is created for the learner
-  repo:     # the name of the template repository from which to clone for the learner
+  repo: lab-starter-template
 
 # `before` block
 # Actions to take place after the learner registers, but before they start interacting with their repo
