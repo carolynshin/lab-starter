@@ -18,7 +18,7 @@ template:
 before:
 - type: createIssue
   title: Welcome
-                # you can execute multiple actions in the `before` block
+  body: welcome-text.md
 
 # Steps for the course
 # A list of steps that take the learner through the course
